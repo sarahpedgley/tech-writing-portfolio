@@ -3,7 +3,7 @@ A portfolio showcasing my work as a Technical Writer in a regulated life science
 
 ## Context
 
-The examples showcased are based around a fictional product, Wisteria, a cloud-based life sciences collaboration and data management tool used by research teams. Its purpose is to manage studies, track documentation, and aid collaboration on experimental results and review workflows.
+The examples showcased are based around a **fictional** product, Wisteria, a cloud-based life sciences collaboration and data management tool used by research teams. Its purpose is to manage studies, track documentation, and aid collaboration on experimental results and review workflows.
 
 ## Contents
 
