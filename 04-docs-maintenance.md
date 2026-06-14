@@ -23,10 +23,12 @@ I conducted a structured documentation review to:
 
 ## Actions taken
 
-- Rewrote and standardised FAQ and troubleshooting-style content
-- Improved structure and navigation consistency across pages
+- Noted individual actions as tasks to manage the project
+- Rewrote and standardised FAQ/troubleshooting-style content
+- Improved structure and navigation across pages
 - Identified and removed duplicated/outdated guidance
-- Collaborated with stakeholders to ensure technical accuracy
+- Proofread documentation as a whole to ensure consistency
+- Collaborated with stakeholders to ensure technical accuracy and approve content
 
 ## Tools used
 
