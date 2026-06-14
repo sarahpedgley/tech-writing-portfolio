@@ -8,10 +8,10 @@ The examples showcased are based around a **fictional** product, Wisteria, a clo
 ## Contents
 
 **User Guide: [01-user-guide.md](01-user-guide.md)**
-A structured example of user-facing documentation designed for clarity and ease of use.
+An example of user-facing documentation.
 
 **Troubleshooting: [02-troubleshooting.md](02-troubleshooting.md)**
-A support-style document designed to help users diagnose and resolve common issues.
+A typical 'troubleshooting' document designed to help users resolve common issues.
 
 **Copy Editing and Proofreading (before & after): [03-editing-before-after.md](03-editing-before-after.md)**
 A comparison showing how I improve unclear or grammatically incorrect content through editing.
