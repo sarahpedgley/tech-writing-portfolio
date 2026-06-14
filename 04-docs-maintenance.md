@@ -12,7 +12,7 @@ The documentation was still functional but required both structural improvements
 
 ## Problem
 
-Users were experiencing difficulty locating relevant guidance, particularly in troubleshooting scenarios. This led to increased reliance on internal support channels for issues that should have been self-service.
+Users were experiencing difficulty locating relevant guidance, and the pages the could access were unhelpful or unclear. This led to increased reliance on internal support channels for issues that should have been self-service.
 
 ## Approach
 
