@@ -1,39 +1,34 @@
 # Getting Started with Wisteria 
 
-This guide helps new users set up their account and access the Wisteria platform for the first time.
+## Introduction
 
-## Before you begin
+This guide outlines how new users can set up their account and access the Wisteria platform for the first time.
+
+## Pre-requisites
 
 Ensure you have:
 - An active Wisteria account invitation
-- Access permissions approved by your organisation
+- Access permissions approved by your organisation and/or system administrator
 - A supported browser (Chrome, Edge, Firefox)
 
-## Step 1: Sign in
+## Signing in
 
 1. Go to the Wisteria login page
 2. Enter your registered email address
 3. Enter your password
-4. Select **Sign in**
+4. Click **Sign in**
 
 If you cannot sign in, use the **Forgot password** link to reset your credentials.
 
-## Step 2: Access your workspace
+## Accessing your workspace
 
-After logging in, you will be directed to your workspace dashboard.
+After logging in, you will be directed to your workspace dashboard. From here, you can view assigned projects, access shared documents, and track recent updates.
 
-From here, you can:
-- View assigned projects
-- Access shared documents
-- Track recent updates
-
-## Step 3: Complete your profile setup
+## Completing your profile
 
 1. Navigate to **Settings**
-2. Update your profile details
-3. Save changes
-
----
+2. Update your profile details where relevant
+3. Click **Save changes**
 
 ## Next steps
 
