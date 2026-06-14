@@ -1,4 +1,4 @@
-# tech-writing-portfolio
+# Portfolio - Sarah Pedgley, Technical Writer
 A portfolio showcasing my work as a Technical Writer in a regulated life sciences environment, as well as my experience in editing and proofreading.
 
 **Context**
