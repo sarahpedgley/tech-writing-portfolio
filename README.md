@@ -7,7 +7,7 @@ The examples showcased are based around a fictional product, Wisteria, a cloud-b
 
 ## Contents
 
-**User Guide: 01-user-guide.md**
+**User Guide: [01-user-guide.md](../01-user-guide.md)**
 A structured example of user-facing documentation designed for clarity and ease of use.
 
 **Troubleshooting: 02-troubleshooting.md**
