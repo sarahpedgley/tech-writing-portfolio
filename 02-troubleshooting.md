@@ -2,8 +2,6 @@
 
 This guide helps resolve common issues when using the Wisteria platform.
 
----
-
 ## Issue: Cannot sign in
 
 ### Possible causes
@@ -16,8 +14,6 @@ This guide helps resolve common issues when using the Wisteria platform.
 2. Reset your password using the login page
 3. Try using an updated version of Chrome or Edge
 
----
-
 ## Issue: Dashboard not loading
 
 ### Possible causes
@@ -29,8 +25,6 @@ This guide helps resolve common issues when using the Wisteria platform.
 1. Refresh the page
 2. Clear your browser cache
 3. Log out and log back in
-
----
 
 ## Issue: Project data not updating
 
