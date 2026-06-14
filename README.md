@@ -16,7 +16,7 @@ A support-style document designed to help users diagnose and resolve common issu
 **Copy Editing and Proofreading (before & after): [03-editing-before-after.md](03-editing-before-after.md)**
 A comparison showing how I improve unclear or grammatically incorrect content through editing.
 
-**Documentation Case Study Maintenance: [04-documentation-maintenance-case-study.md](04-documentation-maintenance-case-study.md)**
+**Documentation Maintenance: [04-documentation-maintenance-case-study.md](04-documentation-maintenance-case-study.md)**
 A real-world style example based on my experience maintaining technical documentation in a SaaS environment.
 
 ## Contact
