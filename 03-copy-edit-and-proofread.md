@@ -6,8 +6,6 @@ This example focuses on copyediting and proofreading, to demonstrate how I work 
 
 Users will encounter problems when trying to access the Wisteria platform because of incorect credentials, expired sessions or system related problems and should ensure they are using the correct login details as given to them by their system administrator before attempting to reset their pasword or contact support.
 
----
-
 ## After:
 
 Users may be unable to access the Wisteria platform for the following reasons:
@@ -22,8 +20,6 @@ Users may be unable to access the Wisteria platform for the following reasons:
 3. Refresh the page and try again
 
 If you are still unable to access your account, please contact support@wisteria.com. 
-
----
 
 ## Improvements made
 
