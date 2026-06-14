@@ -22,3 +22,6 @@ A real-world style example based on my experience maintaining technical document
 ## Contact
 
 skpedgley@gmail.com | 07498571171 | https://www.linkedin.com/in/sarah-pedgley-902264268/
+
+For my Author website: https://authorkgray.wordpress.com/
+For my editing services portfolio: https://www.fiverr.com/katxgray?public_mode=true
