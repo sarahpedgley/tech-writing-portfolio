@@ -1,11 +1,11 @@
 # Portfolio - Sarah Pedgley, Technical Writer
 A portfolio showcasing my work as a Technical Writer in a regulated life sciences environment, as well as my experience in editing and proofreading.
 
-# Context
+## Context
 
 The examples showcased are based around a fictional product, Wisteria, a cloud-based life sciences collaboration and data management tool used by research teams. Its purpose is to manage studies, track documentation, and aid collaboration on experimental results and review workflows.
 
-# Contents
+## Contents
 
 **User Guide: 01-user-guide.md**
 A structured example of user-facing documentation designed for clarity and ease of use.
@@ -19,6 +19,6 @@ A comparison showing how I improve unclear or grammatically incorrect content th
 **Documentation Case Study Maintenance: 04-documentation-maintenance-case-study.md**
 A real-world style example based on my experience maintaining technical documentation in a SaaS environment.
 
-# Contact
+## Contact
 
 skpedgley@gmail.com | 07498571171 | https://www.linkedin.com/in/sarah-pedgley-902264268/
